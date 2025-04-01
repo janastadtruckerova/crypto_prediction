@@ -28,7 +28,7 @@ Cieľom tohto projektu je vytvoriť  a porovnať modely na predikciu cien krypto
 ## Inštalácia
 
 Ak chcete projekt spustiť na svojom počítači, vykonajte nasledujúce kroky:
-V repozitári nájdete dataset a Jupyter notbook. Tieto súbory si môžete stiahnuť a spustiť na vlastnom počítači.
+V repozitári nájdete dataset a Jupyter notbook. Tieto súbory si môžete stiahnuť.
 
 ## Výsledky
 
