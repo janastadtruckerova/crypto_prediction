@@ -31,8 +31,8 @@ Cieľom projektu je:
 
 ### 📁 Štruktúra projektu
 
-- `coin_aav.csv` – dataset s historickými dátami
-- `crypto_prediction.ipynb` – Jupyter/Colab notebook s kompletnou analýzou a vizualizáciami
+- `coin_Aave.csv` – dataset s historickými dátami
+- `predikcia_kryptomien.ipynb` – Jupyter/Colab notebook s kompletnou analýzou a vizualizáciami
 - `README.md` – tento popis projektu
 
 ---
